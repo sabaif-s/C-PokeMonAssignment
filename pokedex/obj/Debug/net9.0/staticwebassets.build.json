@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3+4sZxDzHfIT+8uTT2Spl21O7Hr+Q6fspZM5i+AbHAY=",
+  "Source": "pokedex",
+  "BasePath": "_content/pokedex",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

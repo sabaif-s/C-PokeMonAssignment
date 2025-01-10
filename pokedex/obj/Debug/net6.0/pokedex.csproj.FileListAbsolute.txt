@@ -1,0 +1,68 @@
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/appsettings.json
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/pokedex.exe
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/pokedex.deps.json
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/pokedex.runtimeconfig.json
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/pokedex.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/pokedex.pdb
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.csproj.AssemblyReference.cache
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.AssemblyInfoInputs.cache
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.AssemblyInfo.cs
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.csproj.CoreCompileInputs.cache
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/scopedcss/bundle/pokedex.styles.css
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.csproj.CopyComplete
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/refint/pokedex.dll
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.pdb
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/pokedex.genruntimeconfig.cache
+C:/Users/beimn/Documents/workdir/course-code/event-driven/pokedex/obj/Debug/net6.0/ref/pokedex.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.csproj.AssemblyReference.cache
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.GeneratedMSBuildEditorConfig.editorconfig
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.AssemblyInfoInputs.cache
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.AssemblyInfo.cs
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.csproj.CoreCompileInputs.cache
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.MvcApplicationPartsAssemblyInfo.cs
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.MvcApplicationPartsAssemblyInfo.cache
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/refint/pokedex.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.pdb
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/appsettings.Development.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/appsettings.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/pokedex.staticwebassets.endpoints.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/pokedex
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/pokedex.deps.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/pokedex.runtimeconfig.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/pokedex.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/pokedex.pdb
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/DnsClient.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/MongoDB.Bson.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/MongoDB.Driver.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/SharpCompress.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/Snappier.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/bin/Debug/net6.0/ZstdSharp.dll
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/scopedcss/bundle/pokedex.styles.css
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets.build.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets.development.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets/msbuild.pokedex.Microsoft.AspNetCore.StaticWebAssets.props
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets/msbuild.pokedex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets/msbuild.build.pokedex.props
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.pokedex.props
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.pokedex.props
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/staticwebassets.pack.json
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.csproj.Up2Date
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/pokedex.genruntimeconfig.cache
+/home/basketo/Downloads/Telegram Desktop/pokedex/pokedex/obj/Debug/net6.0/ref/pokedex.dll
